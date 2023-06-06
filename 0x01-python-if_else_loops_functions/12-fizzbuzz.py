@@ -13,5 +13,5 @@ for number in range(1, 101):
         print ("Fizz ", end="")
     elif number % 5 == 0:
         print ("Buzz ", end="")
-    else
+    else:
     print("{} ".format(number), end="")
