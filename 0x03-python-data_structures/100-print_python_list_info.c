@@ -1,6 +1,6 @@
-#include "Python.h"
-#include <object.h>
-#include <listobject.h>
+#include <Python.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * print_python_list_info - function that prints some basic
