@@ -1,4 +1,4 @@
-zy_matrix_mul.txt
+# 101-lazy_matrix_mul.txt
 
 =================================
 How to Use 101-lazy_matrix_mul.py
